@@ -1,0 +1,20 @@
+2024-06-21 16:58:54,822 - INFO - Dask processing time: 114.24 seconds
+2024-06-21 16:59:14,549 - INFO - Successfully loaded 2611892 records into table dask_results
+2024-06-21 16:59:14,549 - INFO - ETL process completed successfully
+2024-06-21 16:59:14,564 - INFO - ETL process completed successfully
+2024-06-21 16:59:14,596 - INFO - Number of rows in dask_results table: 2611892
+2024-06-21 17:04:06,281 - INFO - Dask processing time: 119.42 seconds
+2024-06-21 17:04:35,173 - INFO - Successfully loaded 2611892 records into table dask_results
+2024-06-21 17:04:35,173 - INFO - ETL process completed successfully
+2024-06-21 17:04:35,189 - INFO - ETL process completed successfully
+2024-06-21 17:04:35,228 - INFO - Number of rows in dask_results table: 2611892
+2024-06-21 17:07:41,579 - INFO - Dask processing time: 132.39 seconds
+2024-06-21 17:08:01,551 - INFO - Successfully loaded 2611892 records into table dask_results
+2024-06-21 17:08:01,551 - INFO - ETL process completed successfully
+2024-06-21 17:08:01,567 - INFO - ETL process completed successfully
+2024-06-21 17:08:01,614 - INFO - Number of rows in dask_results table: 2611892
+2024-06-21 17:11:56,399 - INFO - Dask processing time: 126.40 seconds
+2024-06-21 17:12:17,391 - INFO - Successfully loaded 2611892 records into table dask_results
+2024-06-21 17:12:17,391 - INFO - ETL process completed successfully
+2024-06-21 17:12:17,406 - INFO - ETL process completed successfully
+2024-06-21 17:12:17,438 - INFO - Number of rows in dask_results table: 2611892
