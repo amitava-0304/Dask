@@ -1,7 +1,7 @@
 ⚡️ Parallel Computing in Python with Dask ⚡️
-Dask DataFrame is a powerful tool for processing large tabular data by parallelizing pandas operations. Whether you're working on a laptop or a distributed cluster, Dask can help you handle data that is larger than memory.
+# Dask DataFrame is a powerful tool for processing large tabular data by parallelizing pandas operations. Whether you're working on a laptop or a distributed cluster, Dask can help you handle data that is larger than memory.
 
-Key Benefits of Dask DataFrame
+# Key Benefits of Dask DataFrame
 🐼 Just pandas: Dask DataFrames are a collection of many pandas DataFrames, offering the same API and execution style.
 🌐 Large scale: Capable of handling 100 GiB on a laptop or scaling up to 100 TiB on a cluster.
 🛠️ Easy to use: Written in pure Python, making it easy to set up, use, and debug.
